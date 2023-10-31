@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman-Sidd
 - 👀 I’m interested in Open Source Contribution.
-- 🌱 I’m currently learning Diploma in Computer Science and Engineering.
+- 🌱 I’m currently pursuing Btech in Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 You can reach me through gmail (amansiddiqui9804509986@gmail.com).
 
